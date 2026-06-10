@@ -87,7 +87,7 @@ Si deseas probar o modificar el proyecto en tu propia máquina, sigue estos paso
 1. **Clona el repositorio:**
 
 ```bash
-git clone [https://github.com/julcontrerasolate/Chatbot.git](https://github.com/julcontrerasolate/Chatbot.git)
+git clone (https://github.com/julcontrerasolate/Chatbot.git)
 
 ```
 
