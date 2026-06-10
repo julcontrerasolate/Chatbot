@@ -6,8 +6,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 [![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)](https://python.langchain.com/)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([TU_ENLACE_DE_STREAMLIT_AQUI])
-
 Un asistente integral interactivo que utiliza la potencia de la **Inteligencia Artificial (RAG)** para la gestión y consulta de normativas institucionales. Desarrollado para ayudar a los estudiantes respondiendo de manera rápida, precisa y fundamentada, integrando además simuladores de carga académica y paneles de auditoría.
 
 </div>
@@ -87,7 +85,7 @@ Si deseas probar o modificar el proyecto en tu propia máquina, sigue estos paso
 1. **Clona el repositorio:**
 
 ```bash
-git clone (https://github.com/julcontrerasolate/Chatbot.git)
+git clone https://github.com/julcontrerasolate/Chatbot.git
 
 ```
 
