@@ -22,6 +22,12 @@ Creado por **[Julio Andrés Contreras Olate]**
 
 El asistente cuenta con tres módulos principales que puedes alternar en la plataforma para cubrir distintas necesidades académicas.
 
+## 🎥 Demostración del Asistente
+
+<div align="center">
+  <video src="video/Multimedia1.mp4" width="600" controls title="Demo Asistente Académico"></video>
+</div>
+
 ### 💬 Chatbot Documental (Reglamento)
 
 _Tu compañero ideal para todo lo relacionado con las normativas de Duoc UC._ Te dará respuestas precisas, citará los artículos correspondientes y resolverá tus dudas sobre asistencia, notas y procesos. Utiliza un sistema RAG avanzado para evitar alucinaciones.
