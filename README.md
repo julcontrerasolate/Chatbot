@@ -24,8 +24,12 @@ El asistente cuenta con tres módulos principales que puedes alternar en la plat
 
 ## 🎥 Demostración del Asistente
 
+¿Quieres ver cómo funciona en acción? Haz clic en la miniatura para ver el video:
+
 <div align="center">
-  <video src="video/Multimedia1.mp4" width="600" controls title="Demo Asistente Académico"></video>
+  <a href="https://youtu.be/dMBOp08JQjs?si=g3po74faVaYqXXLw">
+    <img src="https://img.youtube.com/vi/dMBOp08JQjs/0.jpg" alt="Demo del Chatbot" width="600">
+  </a>
 </div>
 
 ### 💬 Chatbot Documental (Reglamento)
